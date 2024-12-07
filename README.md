@@ -1,4 +1,9 @@
-## Hi there 👋
+## Nur Fatiq
+Sebagai mahasiswa Sistem Informasi, saya telah merasakan langsung dinamika yang luar biasa dalam dunia teknologi. Ketertarikan saya yang mendalam terhadap bidang ini tidak hanya mendorong saya untuk belajar, tetapi juga menginspirasi saya untuk unggul, terutama dalam pengembangan web.
+
+Saya percaya bahwa teknologi memiliki kekuatan untuk mengubah cara kita hidup dan bekerja. Dengan semangat inovasi yang membara, saya berkomitmen untuk menciptakan solusi-solusi cerdas yang dapat membentuk masa depan. Setiap tantangan yang saya hadapi menjadi kesempatan bagi saya untuk berkontribusi dan berinovasi, dan itulah yang membuat perjalanan ini begitu seru.
+
+Saya siap untuk menjelajahi batasan-batasan baru dan berkolaborasi dengan para profesional di industri untuk mewujudkan ide-ide yang dapat memberikan dampak positif. Dengan dedikasi dan semangat yang tinggi, saya berharap dapat menjadi bagian dari perubahan yang signifikan dalam dunia teknologi.
 
 <!--
 **Anomali99/Anomali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
